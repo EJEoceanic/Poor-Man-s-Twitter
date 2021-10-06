@@ -12,3 +12,5 @@ Instalation Instructions
 	-Navigate in te console to .../frontend and excecute 'npm run serve'
 	-Open in browser the url indicated on the terminal
 		-Test were made in microsoft edge
+	
+	-django cors headers were used only for local testing purposes and does not need to be kept in a production enviroment
